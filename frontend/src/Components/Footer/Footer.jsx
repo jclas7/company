@@ -37,7 +37,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">연락처</h3>
             <ul className="space-y-2 text-gray-400">
               <li>서울특별시 강남구</li>
-              <li>역삼동 123번지</li>
+              <li>테스트 123번지</li>
               <li>전화: 02-1234-5678</li>
               <li>이메일: info@example.com</li>
             </ul>
